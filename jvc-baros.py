@@ -236,7 +236,7 @@ def gen():
         cookie = input(o+"\n["+k+"•"+o+"]"+p+" Cookies : ")
         try:
                 data = requests.get("https://m.facebook.com/composer/ocelot/async_loader/?publisher=feed#_=_", headers = {
-                "user-agent"                : "Mozilla/5.0 (Linux; Android 11; vivo 1901) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36", # Jangan Di Ganti Ea Anjink.
+                "user-agent"                : "Mozilla/5.0 (Linux; Android 8.1.0; MI 8 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.86 Mobile Safari/537.36", # Jangan Di Ganti Ea Anjink.
                 "referer"                   : "https://m.facebook.com/",
                 "host"                      : "m.facebook.com",
                 "origin"                    : "https://m.facebook.com",
